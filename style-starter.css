@@ -19265,7 +19265,7 @@ ul.gallery_agile li {
 /*--//gallery--*/
 /*--/video--*/
 .w3l-index5 {
-    background: url(/Factorship-Starter/assets/images/franchise.jpg) no-repeat center;
+    background: url(franchise.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -19422,7 +19422,7 @@ p.vhny-para {
 /*--//video--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(/Factorship-Starter/assets/images/banner1.jpg) no-repeat center;
+    background: url(banner1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -19733,7 +19733,7 @@ h4.head {
 
 /*--//progress-info--*/
 .w3l-join-main {
-    background: url(/Factorship-Starter/assets/images/company.png) no-repeat center;width: 100%;
+    background: url(company.png) no-repeat center;width: 100%;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -20932,7 +20932,7 @@ section.footer-inner-main {
 }
 
 .running-cycle div {
-    background-image: url(/Factorship-Starter/assets/images/car.png);
+    background-image: url(car.png);
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: 150px;
