@@ -18811,7 +18811,7 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-view {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(banner1.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -18823,17 +18823,17 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-top2 {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(banner2.jpg) no-repeat center;
     background-size: cover;
 }
 
 .w3l-main-slider .banner-top3 {
-    background: url(../images/banner3.jpg) no-repeat center;
+    background: url(banner3.jpg) no-repeat center;
     background-size: cover;
 }
 
 .w3l-main-slider .banner-top4 {
-    background: url(../images/banner4.jpg) no-repeat center;
+    background: url(banner4.jpg) no-repeat center;
     background-size: cover;
 }
 
